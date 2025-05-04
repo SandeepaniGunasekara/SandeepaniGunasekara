@@ -26,11 +26,11 @@
 ### 🛠️ Technologies & Tools:
 
 <p>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=c,cpp,cs,java,py,bash" alt="Languages"/></p>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=html,css,js,ts,angular,react,next,redux,tailwind,php,bootstrap,flutter,reactnative" alt="Frontend"/></p>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=bun,nodejs,spring,net,hono,express,prisma,mongoose" alt="Backend"/></p>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=oracle,mysql,postgresql,sqlserver,mongodb" alt="Database"/></p>
-    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=docker,aws,azure,heroku,supabase,firebase,git,bitbucket,selenium" alt="DevOps"/></p>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=c,cpp,cs,java,py" alt="Languages"/></p>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=html,css,js,ts,angular,react,redux,php,bootstrap" alt="Frontend"/></p>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=bun,nodejs,spring,net,express" alt="Backend"/></p>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=oracle,mysql,sqlserver,mongodb" alt="Database"/></p>
+    <p align="center"><img height="42" src="https://go-skill-icons.vercel.app/api/icons?theme=dark&i=azure,firebase,git,selenium" alt="DevOps"/></p>
 </p>
 
 ---
