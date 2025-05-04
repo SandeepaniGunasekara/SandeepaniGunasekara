@@ -18,7 +18,7 @@
 
 <p align="left">
     <a href="mailto:sandeepanigunasekaraofficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=f5f5f5" alt="Gmail" /></a>
-    <a href="https:/www.linkedin.com/in/sandeepani-gunasekara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/sandeepani-gunasekara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
