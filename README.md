@@ -5,6 +5,7 @@
 
 <p align="justify">
 👩‍🎓 Final year undergraduate at University of Moratuwa, pursuing a BSc (Hons) in Information Technology.
+  
 - 💼 Completed an 8-month internship at Agrithmics (Pvt) Ltd as a Software Engineer Intern:
   - Worked on real-world client projects.
   - Designed and developed production-ready solutions.
