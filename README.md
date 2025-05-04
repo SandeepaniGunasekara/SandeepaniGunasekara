@@ -1,6 +1,6 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=40&pause=2000&color=7900F7&vCenter=true&width=435&lines=Hi+There+%F0%9F%99%8C;I'm+Sandeepani+Gunasekara%F0%9F%A4%A0" alt="Greeting"/>
 
-<code>Developer / Freelancer</code>
+<code>Developer </code>
 <img src="https://komarev.com/ghpvc/?username=sandeepanigunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepanigunasekara" align="right" />
 
 <p align="justify">
