@@ -4,7 +4,14 @@
 <img src="https://komarev.com/ghpvc/?username=sandeepanigunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepanigunasekara" align="right" />
 
 <p align="justify">
-I'm an indie fullstack developer, turning ideas into reality. I thrive on the entire development lifecycle, from sketching out initial concepts to deploying robust, user-friendly applications. My goal is to build meaningful digital experiences that solve real problems and leave a positive impact.
+👩‍🎓 Final year undergraduate at University of Moratuwa, pursuing a BSc (Hons) in Information Technology.
+- 💼 Completed an 8-month internship at Agrithmics (Pvt) Ltd as a Software Engineer Intern:
+  - Worked on real-world client projects.
+  - Designed and developed production-ready solutions.
+  - Contributed to building scalable and efficient web applications.
+- 🔍 Currently seeking Associate Software Engineer/ Software Engineer roles to:
+  - Enhance my technical and professional skills.
+  - Contribute to impactful and challenging projects in the tech industry.
 </p>
 
 <p align="left">
